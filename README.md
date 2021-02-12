@@ -27,7 +27,7 @@ https://ninja-muffin24.itch.io/friday-night-funkin
 
 IF YOU WANT TO COMPILE THE GAME YOURSELF, CONTINUE READING!!!
 
-### Installing shit
+### Installing crap
 
 First you need to install Haxe and HaxeFlixel. I'm too lazy to write and keep updated with that setup (which is pretty simple). 
 The link to that is on the [HaxeFlixel website](https://haxeflixel.com/documentation/getting-started/)
@@ -40,7 +40,7 @@ flixel-ui
 newgrounds
 ```
 
-So for each of those type `haxelib install [library]` so shit like `haxelib install newgrounds`
+So for each of those type `haxelib install [library]` so crap like `haxelib install newgrounds`
 
 You'll also need to install polymod. Do this with 
 
