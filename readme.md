@@ -1,4 +1,4 @@
-# Friday Night Funkin
+# Friday Night Funkin - The Cleaner One
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
@@ -38,7 +38,7 @@ flixel-ui
 hscript
 newgrounds
 ```
-So for each of those type `haxelib install [library]` so shit like `haxelib install newgrounds`
+So for each of those type `haxelib install [library]` so crap like `haxelib install newgrounds`
 
 You'll also need to install polymod. To do this, you need to do a few things first.
 1. Download [git-scm](https://git-scm.com/downloads). Works for Windows, Mac, and Linux, just select your build.
